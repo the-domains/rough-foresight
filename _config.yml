@@ -1,0 +1,14 @@
+layout_spectrum: 0.9643754395656288
+typography_spectrum: 0.7932102154009044
+color:
+  brandStrength: 0.6186163364909589
+  lightness: 0.6946268335450441
+  saturation: 0.27434403682127595
+  rhythmicContrast: 0.5010802443139255
+  brandColors:
+    - '#000000'
+    - '#333333'
+    - '#FF358B'
+    - '#01B0F0'
+    - '#AEEE00'
+name: rough foresight
